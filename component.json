@@ -1,0 +1,12 @@
+{
+  "name": "abbr_number",
+  "license": "MIT",
+  "version": "0.0.1",
+  "twitter": "@ramitos",
+  "description": "Abbreviate number",
+  "keywords": ["number", "abbreviate"],
+  "main": "src/abbr_number.js",
+  "scripts": [
+    "src/abbr_number.js"
+  ]
+}
